@@ -1,0 +1,23 @@
+# Не комітимо секрети
+Secrets.xcconfig
+
+# Згенероване XcodeGen
+FieldbaseCrew.xcodeproj/
+
+# Xcode
+*.xcuserdatad/
+xcuserdata/
+DerivedData/
+build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# CocoaPods (якщо колись додасте)
+Pods/
+
+# Mac
+.DS_Store
